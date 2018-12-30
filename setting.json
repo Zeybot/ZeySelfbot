@@ -1,0 +1,17 @@
+{
+    "Autojoin": true,
+    "Invite": true,
+    "LikeOn": true,
+    "Timeline": false,
+    "afriend": false,
+    "ainvite": false,
+    "asilent": false,
+    "atarget": false,
+    "dfriend": false,
+    "dsilent": false,
+    "dtarget": false,
+    "getmid": false,
+    "mimic": false,
+    "santet": true,
+    "spamr": false
+}
